@@ -3,7 +3,7 @@ ssh -i ~/.ssh/id_rsa ec2-user@<public_ip>
 
 
 # Clone this repo in the EC2 instance
-git clone https://github.com/rrivera16/assignment2.git
+git clone git@github.com:rrivera16/clo835_assign2.git
 
 
 # Change directory
